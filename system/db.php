@@ -2,7 +2,7 @@
 
 // Veritabanı bilgileri
 $host = 'localhost';
-$dbname = 'chatgptblog';
+$dbname = 'blog';
 $username = 'root';
 $password = 'mysql';
 
